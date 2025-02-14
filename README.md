@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nibordi
+- 👋 Hi, I’m @Nibordi (Nicolas)
 - 👀 I’m interested in ... 3d printing, corexy-printers, diy-ing
 - 🌱 I’m currently learning ... soldering 
 - 💞️ I’m looking to collaborate on ...
